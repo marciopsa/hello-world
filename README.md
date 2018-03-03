@@ -1,2 +1,2 @@
 # hello-world
-my first repository
+Marcio Pereira de Sá is a PhD student at INF-UFG on computer science and professor at FASAM-Goiânia-Go-Brazil. He is a Context-Aware Computing, Ubiquitous Computing, IoT and Smart Cities researcher.
